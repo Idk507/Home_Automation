@@ -1,0 +1,101 @@
+temperature,time_of_day,current_date,day_of_week,motion_sensor_state,ac_temperature_status,current_fan_speed,location,previous_fan_state,predicted_fan_state
+20.5,10:14,2023-04-07,Friday,True,24,0,Bedroom,OFF,ON
+28.2,00:40,2023-07-24,Monday,True,21,2,Office,ON,OFF
+21.3,23:56,2023-04-28,Friday,True,22,9,Living Room,OFF,ON
+29.3,05:33,2023-12-25,Monday,False,23,10,Bedroom,ON,OFF
+20.0,03:23,2023-02-25,Saturday,True,19,1,Kitchen,ON,ON
+25.2,03:50,2023-12-19,Tuesday,True,23,10,Bedroom,ON,ON
+23.2,11:18,2023-05-30,Tuesday,True,18,9,Office,OFF,OFF
+25.6,06:03,2023-08-05,Saturday,False,21,5,Office,OFF,ON
+27.4,04:20,2023-03-12,Sunday,False,24,8,Kitchen,OFF,OFF
+26.0,17:21,2023-11-25,Saturday,False,21,10,Kitchen,OFF,ON
+25.9,21:58,2023-08-07,Monday,False,22,2,Living Room,OFF,ON
+22.3,02:00,2023-12-27,Wednesday,False,20,1,Office,OFF,ON
+20.5,13:00,2023-05-16,Tuesday,True,18,3,Bedroom,OFF,ON
+27.2,12:44,2024-01-07,Sunday,True,25,4,Kitchen,OFF,ON
+21.4,09:45,2023-07-18,Tuesday,True,18,2,Kitchen,ON,ON
+28.6,19:10,2023-11-06,Monday,True,22,9,Office,OFF,ON
+24.9,22:04,2023-04-20,Thursday,True,22,9,Living Room,OFF,ON
+28.5,05:53,2023-07-10,Monday,True,23,6,Bedroom,ON,ON
+28.0,19:17,2023-11-30,Thursday,False,21,8,Office,OFF,ON
+24.2,09:58,2023-11-13,Monday,True,22,8,Bedroom,ON,ON
+26.5,06:36,2023-08-31,Thursday,False,20,9,Living Room,ON,ON
+20.3,17:04,2023-09-12,Tuesday,False,24,0,Office,ON,ON
+26.1,21:55,2024-01-29,Monday,False,23,6,Living Room,ON,ON
+25.1,03:30,2023-12-22,Friday,False,22,9,Kitchen,ON,ON
+27.8,18:34,2023-12-11,Monday,False,24,8,Bedroom,OFF,ON
+22.4,11:35,2024-01-14,Sunday,True,22,8,Bedroom,OFF,OFF
+26.7,00:35,2023-04-19,Wednesday,True,25,9,Kitchen,OFF,OFF
+21.3,02:36,2023-03-29,Wednesday,True,23,7,Office,ON,OFF
+22.1,19:30,2023-07-08,Saturday,False,23,6,Office,ON,OFF
+29.8,06:43,2023-07-29,Saturday,False,25,4,Office,ON,OFF
+24.8,19:40,2023-07-31,Monday,True,23,5,Kitchen,ON,OFF
+25.5,21:14,2023-10-02,Monday,True,23,3,Kitchen,ON,ON
+26.0,11:13,2023-05-28,Sunday,False,18,4,Kitchen,OFF,OFF
+22.3,00:24,2023-05-08,Monday,True,20,4,Living Room,OFF,ON
+22.5,20:05,2023-09-28,Thursday,False,19,8,Kitchen,ON,ON
+20.6,05:17,2023-06-08,Thursday,True,25,9,Living Room,OFF,ON
+22.5,15:49,2023-06-21,Wednesday,True,22,8,Kitchen,OFF,OFF
+24.2,08:47,2023-09-21,Thursday,True,18,3,Kitchen,ON,OFF
+25.2,05:30,2023-04-23,Sunday,False,20,4,Bedroom,ON,OFF
+23.8,02:13,2023-11-17,Friday,False,21,0,Office,OFF,OFF
+26.6,03:14,2023-03-09,Thursday,True,22,5,Office,ON,OFF
+22.4,06:17,2023-03-13,Monday,True,24,8,Office,ON,OFF
+26.6,05:42,2023-12-04,Monday,False,23,6,Kitchen,OFF,ON
+28.2,18:02,2024-01-27,Saturday,False,18,0,Kitchen,OFF,ON
+27.1,02:11,2023-06-02,Friday,True,25,1,Office,OFF,ON
+20.5,00:42,2023-10-19,Thursday,False,20,2,Kitchen,ON,OFF
+25.0,00:01,2023-11-02,Thursday,False,23,1,Living Room,OFF,ON
+24.9,12:40,2023-07-27,Thursday,False,23,1,Bedroom,ON,OFF
+20.3,00:21,2023-02-23,Thursday,False,19,8,Bedroom,OFF,ON
+27.2,08:29,2023-02-22,Wednesday,False,24,6,Living Room,ON,OFF
+24.8,20:38,2023-10-15,Sunday,True,22,4,Living Room,OFF,ON
+26.8,00:15,2023-03-11,Saturday,True,24,2,Office,OFF,ON
+27.2,13:50,2023-05-19,Friday,False,19,1,Bedroom,OFF,OFF
+25.9,23:05,2023-06-21,Wednesday,False,24,0,Bedroom,OFF,OFF
+25.1,09:04,2023-07-26,Wednesday,True,25,5,Bedroom,OFF,ON
+25.4,12:52,2023-05-02,Tuesday,False,19,4,Kitchen,ON,ON
+29.1,00:17,2023-09-30,Saturday,False,18,3,Living Room,OFF,ON
+25.8,12:50,2023-11-20,Monday,True,23,0,Living Room,ON,ON
+24.8,00:59,2023-11-22,Wednesday,True,21,8,Kitchen,ON,ON
+22.5,13:58,2023-05-24,Wednesday,True,21,2,Kitchen,ON,OFF
+24.7,11:35,2023-11-18,Saturday,True,19,9,Bedroom,OFF,ON
+20.6,09:22,2023-07-10,Monday,True,19,5,Kitchen,ON,OFF
+26.0,12:12,2023-10-29,Sunday,False,21,10,Office,ON,ON
+27.4,08:50,2023-06-05,Monday,True,19,10,Living Room,ON,ON
+22.4,22:51,2024-01-05,Friday,False,18,2,Kitchen,ON,OFF
+27.6,09:27,2023-05-11,Thursday,False,19,0,Office,ON,OFF
+23.8,02:48,2023-11-10,Friday,False,23,2,Bedroom,ON,OFF
+21.0,09:10,2023-07-29,Saturday,True,18,7,Living Room,OFF,OFF
+22.9,19:01,2023-02-10,Friday,False,22,3,Bedroom,OFF,ON
+22.1,21:10,2023-12-07,Thursday,False,21,7,Office,OFF,ON
+29.2,10:40,2023-02-11,Saturday,False,18,0,Office,OFF,OFF
+29.8,18:42,2023-04-19,Wednesday,True,25,1,Living Room,OFF,OFF
+25.0,19:26,2023-06-24,Saturday,True,24,6,Office,OFF,OFF
+29.6,18:14,2023-05-05,Friday,False,24,6,Bedroom,OFF,OFF
+25.4,00:55,2023-04-25,Tuesday,False,18,5,Living Room,ON,OFF
+29.1,21:57,2023-02-13,Monday,False,19,9,Bedroom,ON,OFF
+20.3,21:23,2024-01-02,Tuesday,False,24,0,Office,ON,ON
+28.5,20:24,2023-03-27,Monday,True,21,8,Office,OFF,ON
+27.7,18:30,2023-05-16,Tuesday,True,21,2,Bedroom,OFF,ON
+28.5,08:05,2023-12-26,Tuesday,True,18,5,Office,ON,OFF
+25.0,10:10,2023-06-03,Saturday,True,22,8,Bedroom,OFF,ON
+21.7,13:20,2023-12-02,Saturday,True,23,7,Bedroom,ON,OFF
+24.9,10:55,2023-08-07,Monday,True,24,3,Bedroom,ON,OFF
+28.9,01:14,2023-08-22,Tuesday,True,19,0,Kitchen,ON,ON
+25.3,05:58,2023-10-13,Friday,False,21,10,Office,OFF,OFF
+28.6,21:57,2024-01-14,Sunday,False,19,9,Kitchen,ON,OFF
+28.9,10:34,2023-01-29,Sunday,False,19,5,Kitchen,ON,OFF
+27.7,01:32,2023-04-03,Monday,True,22,3,Kitchen,ON,OFF
+21.1,22:49,2023-10-05,Thursday,False,23,0,Bedroom,OFF,ON
+27.4,12:15,2023-11-20,Monday,True,22,3,Bedroom,OFF,OFF
+20.7,16:47,2023-02-26,Sunday,False,22,2,Kitchen,ON,ON
+25.5,13:46,2023-10-19,Thursday,True,19,7,Bedroom,OFF,OFF
+28.5,02:11,2023-12-12,Tuesday,True,23,3,Bedroom,ON,OFF
+25.8,04:30,2023-04-14,Friday,True,18,4,Bedroom,ON,OFF
+28.1,03:13,2023-02-13,Monday,True,23,6,Kitchen,ON,ON
+28.8,11:20,2023-05-26,Friday,False,20,6,Living Room,ON,OFF
+25.4,21:01,2024-01-25,Thursday,False,20,10,Kitchen,ON,ON
+27.1,07:34,2023-08-05,Saturday,True,22,2,Office,ON,ON
+25.1,00:32,2023-04-28,Friday,True,24,0,Living Room,OFF,OFF
+20.1,15:35,2023-11-16,Thursday,False,21,2,Living Room,OFF,ON
